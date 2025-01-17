@@ -25,3 +25,100 @@ nav{
     font-size: 32px;
   
   }
+
+
+  /* main part */
+/* first div */
+.first-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 50px 50px;
+    padding: 80px 100px;
+    background-color: #C6E4D6;
+    border-radius: 5px;
+    
+}
+h4{
+
+    font-size: 24px;
+    font-weight: 500;
+    color: rgba(14, 14, 14, 0.5);
+    margin-bottom: 16px;
+    
+}
+
+.first-part p {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.btn-2nd{
+    margin-top:24px;
+    padding:17px 34px;
+    border-radius: 8px;
+    border-style: none;
+    color: white;
+    background-color: #006A50;
+}
+/* 2nd div  */
+.second-div{
+    padding: 50px;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.sec-p{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 25px;
+    gap: 30px;
+   
+}
+.card-1{
+    background-color: #74A4F7;
+    padding: 32px;
+    border-radius: 16px;
+}
+
+.card-2{
+    background-color: #C6E4D6;
+    padding: 32px;
+    border-radius: 16px;
+
+}
+
+.card-3{
+    background-color: #F7EBCF;
+    padding: 32px;
+    border-radius: 16px;
+}
+.card-txt{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.card-p{
+    font-size: 16px;
+    line-height: 24px;
+    margin: 10px;
+}
+
+.card-btn{
+    padding: 11px 22px;
+    border-radius: 8px;
+    background-color: #00f3b6;
+    border-style: none;
+    color: white;
+
+}
+
