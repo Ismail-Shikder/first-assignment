@@ -235,3 +235,13 @@ input{
     border: none;
 }
 
+/* footer */
+
+.last-div{
+    margin-top: 10px;
+    text-align: center ;
+    
+}
+.soci-link img{
+    padding: 10px;
+}
