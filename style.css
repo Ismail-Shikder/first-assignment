@@ -19,3 +19,9 @@ nav{
     border-color: #006A50;
     border-width:1px ;
 }
+
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+  
+  }
